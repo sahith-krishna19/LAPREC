@@ -1,2 +1,2 @@
 # LAPREC
-LAptop Reccomender
+Laptop Reccomender
